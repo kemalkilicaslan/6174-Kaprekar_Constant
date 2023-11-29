@@ -1,4 +1,4 @@
-# 6174-Kaprekar_Constant
+# 6174 Kaprekar Constant
 
 def kaprekar(num): # We define the Kaprekar function
 
